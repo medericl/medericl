@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Médéric
 
-<!--
-**medericl/medericl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at EPITA.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science student
+- Interested in C, C++, Linux and low-level programming
+- Arch Linux + i3 user
+- Interested in computer graphics and image processing
+
+## Technologies
+
+- C / C++
+- Python
+- Git
+- Linux
+- OpenGL
+
+## Projects
+
+### 42sh
+Implementation of a POSIX shell in C.
+
+### Sudoku OCR
+Sudoku recognition and solving using image processing and neural networks.
